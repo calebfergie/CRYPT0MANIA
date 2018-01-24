@@ -1,6 +1,6 @@
 # CRYPT0MANIA
 ## This is the repository for everything related to the CRYPT0MANIA project
-![](images/crystal-img.JPG)
+![](images/crystal-img.JPG = 400x600)
 Sup cryptofam! This project was demo'd at the [2017 ITP Winter Show](https://itp.nyu.edu/shows/winter2017/crypt0mania/) and details on its creation can be found [here](http://www.blog.calebfergie.com/2017/12/29/api-to-led-8/), with more detail on the code [here](http://www.blog.calebfergie.com/2017/12/21/api-to-led-6/).
 
 The crystal now lives on my windowsill, with a livestream TBD. _ETA February 2018._

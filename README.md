@@ -2,9 +2,13 @@
 ## This is the repository for everything related to the CRYPT0MANIA project
 ![](images/crystal-img.JPG)
 
-Sup cryptofam! This project was demo'd at the [2017 ITP Winter Show](https://itp.nyu.edu/shows/winter2017/crypt0mania/) and details on its creation can be found [here](http://www.blog.calebfergie.com/2017/12/29/api-to-led-8/), with more detail on the code [here](http://www.blog.calebfergie.com/2017/12/21/api-to-led-6/).
+Cryptomania is a sculpture designed as commentary on the cryptocurrency pandemonium. It lights up based on the 1 hour price change (a percentage value) of a particular crypto-currency – Ethereum.
 
-The crystal now lives on my windowsill, with a livestream TBD. _ETA February 2018._
+This project was created in Fall 2017, at the height of crypto pandemonium. It was first demo'd at the [2017 ITP Winter Show](https://itp.nyu.edu/shows/winter2017/crypt0mania/) and then at a BMCC Maker Showcase in Spring 2018.
+
+Details on it can be found [here](http://www.blog.calebfergie.com/2017/12/29/api-to-led-8/), with more detail on the code [here](http://www.blog.calebfergie.com/2017/12/21/api-to-led-6/).
+
+The crystal still lives and breathes with data. The data it is recieving can be found on it's [live feed website](http://sandbox.calebfergie.com:8080/), which is currently a WIP.
 
 ## Notes about this repository
 

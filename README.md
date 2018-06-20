@@ -6,7 +6,7 @@ Cryptomania is a sculpture designed as commentary on the cryptocurrency pandemon
 
 This project was created in Fall 2017, at the height of crypto pandemonium. Since then it has been demo'd at various expositions.
 
-| ![](ITPWinterShow2017.JPG)| ![](BMCC.JPG)| ![](MiniMakerFaire.JPG) |
+| ![](images/ITPWinterShow2017.JPG)| ![](images/BMCC.JPG)| ![](images/MiniMakerFaire.JPG) |
 | :---: |:---:| :---:|
 | [2017 ITP Winter Show](https://itp.nyu.edu/shows/winter2017/crypt0mania/) | [2018 BMCC MakerSpace](http://www.bmcc.cuny.edu/calendar/events.jsp?id=34447) | [2018 MakerFaire Philadelphia](https://philly.makerfaire.com/maker/entry/83/)
 

@@ -4,7 +4,11 @@
 
 Cryptomania is a sculpture designed as commentary on the cryptocurrency pandemonium. It lights up based on the 1 hour price change (a percentage value) of a particular crypto-currency – Ethereum.
 
-This project was created in Fall 2017, at the height of crypto pandemonium. It was first demo'd at the [2017 ITP Winter Show](https://itp.nyu.edu/shows/winter2017/crypt0mania/) and then at a BMCC Maker Showcase in Spring 2018.
+This project was created in Fall 2017, at the height of crypto pandemonium. Since then it has been demo'd at various expositions.
+
+| ![](ITPWinterShow2017.JPG)| ![](BMCC.JPG)| ![](MiniMakerFaire.JPG) |
+| :---: |:---:| :---:|
+| [2017 ITP Winter Show](https://itp.nyu.edu/shows/winter2017/crypt0mania/) | [2018 BMCC MakerSpace](http://www.bmcc.cuny.edu/calendar/events.jsp?id=34447) | [2018 MakerFaire Philadelphia](https://philly.makerfaire.com/maker/entry/83/)
 
 Details on it can be found [here](http://www.blog.calebfergie.com/2017/12/29/api-to-led-8/), with more detail on the code [here](http://www.blog.calebfergie.com/2017/12/21/api-to-led-6/).
 

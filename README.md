@@ -4,11 +4,11 @@
 
 Cryptomania is a sculpture designed as commentary on the cryptocurrency pandemonium. It lights up based on the 1 hour price change (a percentage value) of a particular crypto-currency – Ethereum.
 
-This project was created in Fall 2017, at the height of crypto pandemonium. Since then it has been demo'd at various expositions.
+This project was created in Fall 2017, at the height of crypto pandemonium. Since then, cryptocurrency has fallen out of the mainstream media hype cycle. **Yet the mania remains encapsulated within the crystal.** CRYPT0MANIA has been demo'd at various expositions since 2017:
 
-| ![](images/ITPWinterShow2017.JPG)| ![](images/BMCC.JPG)| ![](images/MiniMakerFaire.JPG) |
-| :---: |:---:| :---:|
-| [2017 ITP Winter Show](https://itp.nyu.edu/shows/winter2017/crypt0mania/) | [2018 BMCC MakerSpace](http://www.bmcc.cuny.edu/calendar/events.jsp?id=34447) | [2018 MakerFaire Philadelphia](https://philly.makerfaire.com/maker/entry/83/)
+| ![](images/ITPWinterShow2017.JPG)| ![](images/BMCC.JPG)| ![](images/MiniMakerFaire.JPG) | ![](images/NYCML2018.png) |![](images/2018NYCmaker.png) |
+| :---: |:---:| :---:| :---:| :---:|
+| [2017 ITP Winter Show](https://itp.nyu.edu/shows/winter2017/crypt0mania/) | [2018 BMCC MakerSpace](http://www.bmcc.cuny.edu/calendar/events.jsp?id=34447) | [2018 MakerFaire Philadelphia](https://philly.makerfaire.com/maker/entry/83/) | [2018 NYC Media Lab Summit](https://www.summit.nycmedialab.org/demo-expo/#CREATIVE) | [2018 World Maker Faire](https://makerfaire.com/maker/entry/67572/) |
 
 Details on it can be found [here](http://www.blog.calebfergie.com/2017/12/29/api-to-led-8/), with more detail on the code [here](http://www.blog.calebfergie.com/2017/12/21/api-to-led-6/).
 

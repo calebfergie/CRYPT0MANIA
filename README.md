@@ -6,6 +6,14 @@
 
 CRYPT0MANIA is a sculpture designed as commentary on the cryptocurrency pandemonium. It lights up based on the 1 hour price change (a percentage value) of a particular crypto-currency – Ethereum.
 
+The crystal is intended to encapsulate the mania by showing an ambiguous, but real time indication “good” or “bad” sentiment. The sculpture is intended to call the following concepts for consideration:
+
+- The **hive-mind mentality** of observing a price as a proxy for “real” value
+- The **populist and over-simplified** media coverage of blockchain technology
+- The **shortsighted, accelerationist** nature of cryptocurrency discourse and “technical analysis” by so-called experts
+
+The crystal is a passive object that pulses with varying intensity and direction over time.
+
 ![https://makerfaire.com/maker/entry/67572/](images/editors-choice-banner.png)
 
 CRYPTOMANIA contains an internet-connected circuit that calls [this API](https://api.coinmarketcap.com/v1/ticker/ethereum/) to retrieve price change information and convert it into a more abstract and emotional glowing digital signal.

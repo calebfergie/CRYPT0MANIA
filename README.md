@@ -1,6 +1,8 @@
 # CRYPT0MANIA
 ![https://vimeo.com/249122914](images/video-screenshot.png)
+
 ⬆️Click for Video⬆️
+
 
 CRYPT0MANIA is a sculpture designed as commentary on the cryptocurrency pandemonium. It lights up based on the 1 hour price change (a percentage value) of a particular crypto-currency – Ethereum.
 

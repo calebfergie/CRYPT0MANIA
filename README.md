@@ -16,7 +16,7 @@ This project was created in Fall 2017, at the height of crypto pandemonium. Sinc
 | :---: |:---:| :---:| :---:| :---:|
 | [2017 ITP Winter Show](https://itp.nyu.edu/shows/winter2017/crypt0mania/) | [2018 BMCC MakerSpace](http://www.bmcc.cuny.edu/calendar/events.jsp?id=34447) | [2018 MakerFaire Philadelphia](https://philly.makerfaire.com/maker/entry/83/) | [2018 NYC Media Lab Summit](https://www.summit.nycmedialab.org/demo-expo/#CREATIVE) | [2018 World Maker Faire](https://makerfaire.com/maker/entry/67572/) |
 
-Further details on it can be found [here](http://www.blog.calebfergie.com/2017/12/29/api-to-led-8/), with more detail on the code [here](http://www.blog.calebfergie.com/2017/12/21/api-to-led-6/).
+### Further details on it can be found [here](http://www.blog.calebfergie.com/2017/12/29/api-to-led-8/), with more detail on the code [here](http://www.blog.calebfergie.com/2017/12/21/api-to-led-6/).
 
 ## Notes about this repository
 

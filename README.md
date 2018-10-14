@@ -1,5 +1,5 @@
 # CRYPT0MANIA
-![https://vimeo.com/249122914](images/video-screenshot.png)
+[![](images/video-screenshot.png)](https://vimeo.com/249122914)
 
 ⬆️Click for Video⬆️
 

@@ -6,8 +6,7 @@
 
 CRYPT0MANIA is a sculpture designed as commentary on the cryptocurrency pandemonium. It lights up based on the 1 hour price change (a percentage value) of a particular crypto-currency – Ethereum.
 
-![https://makerfaire.com/maker/entry/67572/](images/editors-choice.png)
-### Winner of Editors Choice Award at 2018 World Maker Faire
+![https://makerfaire.com/maker/entry/67572/](images/editors-choice-banner.png)
 
 CRYPTOMANIA contains an internet-connected circuit that calls [this API](https://api.coinmarketcap.com/v1/ticker/ethereum/) to retrieve price change information and convert it into a more abstract and emotional glowing digital signal.
 
